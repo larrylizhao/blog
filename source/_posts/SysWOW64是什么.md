@@ -1,6 +1,6 @@
 title: SysWOW64是什么
 date: 2014-11-28 10:51:04
-tags: [window, DLL]
+tags: [Window, DLL]
 ---
 在做Printing的时候把VS中项目打包后要把dll文件放到Win7的**SysWOW64**文件夹下，我在网上查了一些什么是**SysWOW64**文件夹：
 >**WOW64** (Windows-on-Windows64-bit)是一个Windows操作系统的子系统,能够运行32-bit 应用程序,并且在所有的64-bit 版本的windows上都存在。
